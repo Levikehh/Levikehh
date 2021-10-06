@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Levikehh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## README is under construction :P
 
-<!---
-Levikehh/Levikehh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Feel free to contact me
+[<img width="24px" align="left" alt="https://www.instagram.com/boka_levi/" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img width="24px" align="left" alt="bkalevi@gmail.com" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+
+[instagram]: https://www.instagram.com/boka_levi/
+[email]: mailto:"bkalevi@gmail.com"
